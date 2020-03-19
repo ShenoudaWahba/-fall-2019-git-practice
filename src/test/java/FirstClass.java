@@ -1,6 +1,8 @@
 public class FirstClass {
     public static void main(String[] args) {
-        System.out.println("Hello mmmffmmm");
-        System.out.println();
+        System.out.println("brave new world");
+        System.out.println("someone);
+        System.out.println("change one);
+        
     }
 }
