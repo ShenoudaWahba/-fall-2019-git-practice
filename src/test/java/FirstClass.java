@@ -4,7 +4,7 @@ public class FirstClass {
         System.out.println("someone");
         System.out.println("change one");
         System.out.println("change two");//kjlk
-        System.out.println("change three");  
+        System.out.println("change three"); //mmmmm 
         
                    //frist change
         //dodo
